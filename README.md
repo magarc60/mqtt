@@ -3,7 +3,7 @@
 The Exposure project generate the transform of the data.
 The project is formed by:
 - **Local Data Generation**: Each local OE will generate a monthly file with the data transformation.
-##Commit Strategy
+### Commit Strategy
 If you want to contribute follow this [guide](http://azure-onboarding/commit.md at main · azes/azure-onboarding (allianz.io)
 
 ### Project Documentation
